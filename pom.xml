@@ -67,7 +67,7 @@
         <dependency>
             <groupId>com.github.novaeye</groupId>
             <artifactId>fenix</artifactId>
-            <version>v3.0.0-pre-3</version>
+            <version>${project.version}</version>
         </dependency>
 
         <dependency>
